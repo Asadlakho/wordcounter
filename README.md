@@ -2,7 +2,7 @@
 This is a simple Word Counter web app built using HTML, Tailwind CSS, and JavaScript.
 It counts and displays the total number of characters as you type in the text area.
 
-⚙️ Features
+⚙️ Features :
 
 Real-time character counting
 
@@ -12,7 +12,7 @@ Built with Tailwind CSS for quick styling
 
 Smooth and lightweight functionality
 
-💡 Technologies Used
+💡 Technologies Used :
 
 .HTML5
 
@@ -21,3 +21,6 @@ Smooth and lightweight functionality
 .Font Awesome (for icons)
 
 .JavaScript
+
+🚀 Live Demo :
+🔗 https://asadlakho.github.io/wordcounter/
